@@ -16,6 +16,7 @@ Embark on this digital adventure with:
 - Access to Google Colaboratory 🧪
 - A magnet link or torrent file 🧲
 
+
 ## 🛠 Setup Instructions
 
 1. **Google Drive Mounting:** 🗻 Gain the power to save directly to your drive by mounting it within the app.
